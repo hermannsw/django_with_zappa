@@ -7,7 +7,9 @@ chardet==3.0.4
 Click==7.0
 Django==1.11.23
 django-environ==0.4.5
+django-filter==2.2.0
 django-s3-storage==0.12.5
+djangorestframework==3.10.2
 docutils==0.15.2
 durationpy==0.5
 future==0.16.0
@@ -16,6 +18,7 @@ idna==2.8
 jmespath==0.9.3
 kappa==0.6.0
 lambda-packages==0.20.0
+Markdown==3.1.1
 placebo==0.9.0
 python-dateutil==2.6.1
 python-slugify==1.2.4
