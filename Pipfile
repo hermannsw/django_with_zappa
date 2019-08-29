@@ -6,11 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "*"
-django-rest-framework = "*"
-django-environ = "*"
+django = "==1.11.23"
 zappa = "*"
-djongo = "*"
+django-environ = "*"
 django-s3-storage = "*"
 
 [requires]
